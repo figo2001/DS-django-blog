@@ -139,11 +139,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![Screenshot 2024-06-01 at 22-38-14 Screenshot](https://github.com/figo2001/DS-django-blog/assets/78696850/24a8f4d6-eb17-45ce-9cad-f3aab223bf08)
 
 
-
-
-
 Happy coding!
 
 ---
-
-Feel free to customize this README to better fit your project and preferences.
